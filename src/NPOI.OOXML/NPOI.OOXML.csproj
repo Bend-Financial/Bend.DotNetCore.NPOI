@@ -3,7 +3,7 @@
 	<PropertyGroup>
 		<TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
 		<PackageId>Bend.DotNetCore.NPOI</PackageId>
-		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
 		<Version>1.2.4</Version>
 		<Title>Bend fork of NPOI</Title>
 		<Authors>Bend</Authors>
