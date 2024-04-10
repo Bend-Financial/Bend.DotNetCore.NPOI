@@ -2,7 +2,14 @@
 
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;net461</TargetFrameworks>
-    <PackageId>DotNetCore.NPOI.OpenXml4Net</PackageId>
+    <PackageId>Bend.DotNetCore.NPOI.OpenXml4Net</PackageId>
+	<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+	<Version>1.2.4</Version>
+	<Title>Bend fork of NPOI OpenXml4Net</Title>
+	<Authors>Bend</Authors>
+	<Description>Bend fork of NPOI OpenXml4Net</Description>
+	<Copyright>Copyright</Copyright>
+	<RepositoryUrl>https://github.com/Bend-Financial/Bend.DotNetCore.NPOI</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
